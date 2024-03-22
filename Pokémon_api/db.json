@@ -2,83 +2,95 @@
     "pokemon":[    
         {
             "name":"Garchomp",
-            "description":"The mach pokemon, When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+            "classification":"The mach pokemon",
+            "description":"When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
             "pokedexNumber":"445",
-            "sprite":"",
+            "sprite":"images/garchomp.gif",
             "type1":["Dragon", "Ground"]
         },
         {
             "name":"Electivire",
-            "description":"Thunderbolt Pokémon, When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
+            "classification":"The thunderbolt pokemon",
+            "description":"When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
             "pokedexNumber":"466",
-            "sprite":"",
+            "sprite":"images/electivireGif.gif",
             "type1": ["Electric"]
         },
         {
             "name":"charizard",
-            "description":"The flame pokemon, f Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
+            "classification":"The flame pokemon",
+            "description":"If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.",
             "pokedexNumber":"6",
-            "sprite":"",
+            "sprite":"images/charizard.gif",
             "type1": ["Fire","Flying"]
         },
         {
             "name":"Serperior",
-            "description":"The Regal pokemon, it can stop its opponents' movements with just a glare",
+            "classification":"The regal pokemon",
+            "description":"It can stop its opponents' movements with just a glare",
             "pokedexNumber":"497",
             "sprite":"",
             "type1": ["Grass"]
         },
         {
             "name":"Samurott",
-            "description":"The Formidable Pokémon, A master of a sword-drawing art called iaijutsu, Samurott settles its battles with a single swing of either large sword sheathed in its foreleg armor.",
+            "classification":"The Formidable Pokémon",
+            "description":"A master of a sword-drawing art called iaijutsu, Samurott settles its battles with a single swing of either large sword sheathed in its foreleg armor.",
             "pokedexNumber":"503",
             "sprite":"",
             "type1": ["Water"]
         },
         {
             "name":"Reshiram",
-            "description":"The vast white pokemon, when Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather",
+            "classification":"The vast white pokemon",
+            "description":"When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather",
             "pokedexNumber":"643",
             "sprite":"",
             "type1": ["Fire","Dragon"]
         },
         {
             "name":"Zekrom",
-            "description":"The Deep Black Pokémon, This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+            "classification":"The Deep Black Pokémon",
+            "description":"This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
             "pokedexNumber":"644",
             "sprite":"",
             "type1": ["Electric", "Dragon"]
         },
         {
             "name":"Hydreigon",
-            "description":"The brutal pokemon, it responds to movement by attacking. This scary, three headed pokemon devours everything in it's path.",
+            "classification":"The brutal pokemon",
+            "description":"It responds to movement by attacking. This scary, three headed pokemon devours everything in it's path.",
             "pokedexNumber":"635",
             "sprite":"",
             "type1": ["Dark","Dragon"]
         },
         {
             "name":"Darkrai",
-            "description":"The pitch-black pokemon, Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares.",
+            "classification":"The pitch-black pokemon",
+            "description":"Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares.",
             "pokedexNumber":"491",
             "sprite":"",
             "type1": ["Dark"]
         },
         {
             "name":"Sceptile",
-            "description":"The forest pokemon, the leaves growing on its back are very sharp edged. This pokemon is very agile-it leaps all over the branches of trees and jumps on its foe from above or behind",
+            "classification":"The forest pokemon",
+            "description":"The leaves growing on its back are very sharp edged. This pokemon is very agile-it leaps all over the branches of trees and jumps on its foe from above or behind",
             "pokedexNumber":"254",
             "sprite":"",
             "type1": ["Grass"]
         },
         {
             "name":"Metagross",
-            "description":"The metal leg pokemon, Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
+            "classification":"The metal leg pokemon",
+            "description":"Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs.",
             "pokedexNumber":"376",
             "sprite":"",
             "type1": ["Steel","Psychic"]
         },
         {
             "name":"Giritina",
+            "classification":"The renegade Pokémon",
             "description":"Renegade Pokémon, It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
             "pokedexNumber":"487",
             "sprite":"",
@@ -86,6 +98,7 @@
         },
         {
             "name":"Empoleon",
+            "classification":"The vast white pokemon",
             "description":"The emperor pokemon, the three horns that extend from its beak attest to its power. The leader has the biggest horns",
             "pokedexNumber":"395",
             "sprite":"",
@@ -93,27 +106,31 @@
         },
         {
             "name":"Scizor",
-            "description":"The pincer pokemon, Scizor has a body with the hardness of steel. It's not easily fazed by ordinary sorts of attacks. This pokemon flaps it's wings to regulate it's body temperature",
+            "classification":"The pincer pokemon",
+            "description":"Scizor has a body with the hardness of steel. It's not easily fazed by ordinary sorts of attacks. This pokemon flaps it's wings to regulate it's body temperature",
             "pokedexNumber":"212",
             "sprite":"",
             "type1": ["Steel","Bug"]
         },
         {
             "name":"Gardevoir",
-            "description":"The embrace pokemon, To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+            "classification":"The embrace pokemon",
+            "description":"To protect its Trainer, it will expend all its psychic power to create a small black hole.",
             "pokedexNumber":"282",
             "sprite":"",
             "type1": ["Fairy","Psychic"]
         },
         {
             "name":"Palkia",
-            "description":"The spacial pokemon, It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
+            "classification":"The spacial pokemon",
+            "description":"It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
             "pokedexNumber":"484",
             "sprite":"",
             "type1": ["Water","Dragon"]
         },
         {
             "name":"Reuniclus",
+            "classification":"The multiplying pokemon",
             "description":"The multiplying pokemon, They use psychic power to control their arms, which are made of a special liquid. They can crush boulders physically.",
             "pokedexNumber":"579",
             "sprite":"",
@@ -121,21 +138,24 @@
         },
         {
             "name":"Beheeyem",
-            "description":"The cerebral pokemon, It uses psychic power to control an opponent's brain and tamper with its memories.",
+            "classification":"The cerebral pokemon",
+            "description":"It uses psychic power to control an opponent's brain and tamper with its memories.",
             "pokedexNumber":"606",
             "sprite":"",
             "type1": ["Psychic"]
         },
         {
             "name":"Bisharp",
-            "description":"The sword blade pokemon, No matter how strong the Bisharp, it’s said that if the blade on its head is chipped, it will retire from its position as the boss.",
+            "classification":"The sword blade pokemon",
+            "description":"No matter how strong the Bisharp, it's said that if the blade on its head is chipped, it will retire from its position as the boss.",
             "pokedexNumber":"625",
             "sprite":"",
             "type1": ["Dark","Steel"]
         },
         {
             "name":"Arceus",
-            "description":"The alpha pokemon, It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+            "classification":"The alpha pokemon",
+            "description":"It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
             "pokedexNumber":"493",
             "sprite":"",
             "type1": ["Normal"]
